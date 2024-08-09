@@ -1,4 +1,4 @@
-# Wikipedia Scraper
+# Wikipedia Web Scraper
 
 ## Overview
 
