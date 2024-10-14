@@ -20,4 +20,4 @@ This project is a simple web scraper built with Python that extracts information
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/wikipedia-scraper.git
+   git clone https://github.com/GabrielB03/wikipedia-scraper.git
